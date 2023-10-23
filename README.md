@@ -64,7 +64,7 @@ C. Create one .env file and .gitignore file (add the .env file to it) in the roo
 
 ```
 MONGO_URL=
-MONGO_PASS=
+PASS=
 ```
 D. Save, and run:
 
